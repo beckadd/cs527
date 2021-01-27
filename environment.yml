@@ -1,0 +1,14 @@
+name: compsci527
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python==3.9
+  - jupyterlab
+  - numpy
+  - scikit-learn
+  - scikit-image
+  - pillow
+  - tqdm
+  - matplotlib
+  - autograd
