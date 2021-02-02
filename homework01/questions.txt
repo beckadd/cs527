@@ -1,0 +1,6 @@
+1.3 (second function) Is the equation separable by taking the integral (basically, is integration enough to show that it is separable?)
+2.4 
+
+a. It takes 5 total operations per pixel for box_convolution to return a matrix.
+
+b.  How should we compare box_convolution/convolution/separable_convolution? Compare operations per pixel, multithreading, etc.?
